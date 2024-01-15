@@ -3,3 +3,5 @@ main epep
 -booyah 10 kali
 main emel
 -pus glory
+main genshin
+main ps2
